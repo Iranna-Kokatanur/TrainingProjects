@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 16.0.1
+Class-Path: ojdbc8-19.3.0.0.jar ucp-19.3.0.0.jar oraclepki-19.3.0.0.jar 
+ osdt_cert-19.3.0.0.jar osdt_core-19.3.0.0.jar simplefan-19.3.0.0.jar on
+ s-19.3.0.0.jar log4j-1.2.17.jar
+Main-Class: com.examples.demo.Application
+Created-By: Maven Integration for Eclipse
+
